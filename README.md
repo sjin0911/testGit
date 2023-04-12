@@ -1,2 +1,3 @@
-# gitstudy
-# gitstudy05
+# gitstudy05s
+
+#my first repo...
